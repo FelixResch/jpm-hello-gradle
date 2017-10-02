@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpm-hello-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/jpm-hello-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpm-hello-gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpm-hello-gradle_main.iml" group="jpm-hello-gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpm-hello-gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpm-hello-gradle_test.iml" group="jpm-hello-gradle" />
+    </modules>
+  </component>
+</project>
