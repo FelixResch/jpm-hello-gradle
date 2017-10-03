@@ -26,6 +26,6 @@ dependencies {
 jar {
     manifest {
         attributes 'Main-Class': 'org.web25.felix.jpm.hellogradle.HelloWorld'
-        attributes 'Class-Path': 'lib/*'
+        attributes 'Class-Path': '../../lib/*'
     }
 }
