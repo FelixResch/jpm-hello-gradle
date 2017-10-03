@@ -9,18 +9,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: io.femo:jdk7-support:0.0.1-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="jpm-hello-gradle_main" />
+    <orderEntry type="library" name="Gradle: io.femo:http:0.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.femo:jdk7-support:0.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: eu.medsea.mimeutil:mime-util:2.1.3" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains:annotations-java5:15.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.commons:commons-io:1.3.2" level="project" />
-    <orderEntry type="library" name="Gradle: commons-io:commons-io:1.3.2" level="project" />
-    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-io:1.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations-java5:15.0" level="project" />
     <orderEntry type="library" name="Gradle: io.femo:dynamic:0.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" name="Gradle: io.femo:http:0.0.3" level="project" />
-    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: log4j:log4j:1.2.14" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:1.3.2" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="jpm-hello-gradle_main" />
 </module>
