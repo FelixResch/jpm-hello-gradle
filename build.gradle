@@ -20,6 +20,8 @@ dependencies {
     compile group: 'io.femo', name: 'http', version: '0.0.3'
     // https://mvnrepository.com/artifact/io.femo/jdk7-support
     compile group: 'io.femo', name: 'jdk7-support', version: '0.0.2'
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-slf4j-impl
+    compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.9.1'
 
 }
 
