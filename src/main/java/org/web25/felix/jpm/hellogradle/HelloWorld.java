@@ -9,11 +9,11 @@ public class HelloWorld {
     public static void main(String[] args) {
         HttpServer server = Http
                 .server(8080)
-                .use(Handlers.log())
                 .get("/", (request, response) -> {
                     response.entity("Hello World");
                     return true;
-                });
+                })
+                .after(Handlers.log());
         server.start();
     }
 }
